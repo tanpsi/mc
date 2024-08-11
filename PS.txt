@@ -1,0 +1,16 @@
+			    Task 1 (Beginner Level):
+Concepts used: control statements, conditional statements,
+
+As now you all are familiar with at least 1 programming language. We want to let
+you know the extreme reality that only theory won’t do anything you need to
+practice your skills. Design a modern Calculator in any of the programming
+languages but there are some basic requirements:
+
+- Calc. should be able to do all basic functionality like addition , subtraction, etc.
+- It should have functions like log , trigonometry too.
+- Use of math libraries is strictly prohibited.
+- It should also have an option to solve quadratic equations(Use its formula).
+
+Some Ideas to make it better:
+- Add functionality to solve n linear equations in n variables(at least for n = 2).
+- Add functionality to solve differentiations and integrals.
